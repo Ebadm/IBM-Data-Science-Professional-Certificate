@@ -55,10 +55,11 @@ This project follows these steps:
 - Using machine learning to build a predictive model to help a business function more efficiently
 - Structuring and building a data-findings report
 
+
 ## 🏆 Certificates 
 To verify the certificates, click the images to follow the links.
 
 <p align="middle">
-  <a href="https://coursera.org/share/de37e9a98d6f1415c77cba62dcfb344d"><img src="https://user-images.githubusercontent.com/84391594/161432000-ba6916f0-6f5e-49ab-9ff3-fae4f6f18596.png" height="420"></a>
+  <a href="https://coursera.org/share/89ccd8bd57fe1d8c1a74bf7e130396af"><img src="https://github.com/Ebadm/IBM-Data-Science-Professional-Certificate/assets/64616825/a2d3d8ef-7593-4c8d-af8d-9ba3919ca983" height="420"></a>
   <a href="https://coursera.org/share/de37e9a98d6f1415c77cba62dcfb344d"><img src="https://user-images.githubusercontent.com/84391594/161431807-63db38f1-2203-4383-aa6e-ad8b6e42ee55.png" height="420"></a>
 </p>
